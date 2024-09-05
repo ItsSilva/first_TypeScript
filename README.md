@@ -108,4 +108,8 @@ So why is TypeScript considered a transpilation and not a compilation? The reaso
 
 <br />
 
+- **Note:** White the Extension Quokka, You can see how the code runs in VS using the command:
+
+>Quokka.js:Start on Current File
+
 ---
